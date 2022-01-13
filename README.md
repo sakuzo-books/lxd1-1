@@ -25,4 +25,4 @@ https://www.amazon.co.jp/dp/B09PC2S1KT
 
 # 連絡先
 
-Twitter: @sakuzo_books
+Twitter: [@sakuzo_books](https://twitter.com/sakuzo_books)
