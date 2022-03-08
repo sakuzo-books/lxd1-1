@@ -13,6 +13,17 @@
     サーバーアドレス 192.168.56.100
     ```
 
+  * P30 : 付録A 11.OpenSSH Serverをインストールします。
+    * 誤
+    ```
+    [ ] Install OpenSSH Server にチェックを入れて、[X] OpenSSH Server にします。
+    ```
+
+    * 正
+    ```
+    [ ] Install OpenSSH Server にチェックを入れて、[X] Install OpenSSH Server にします。
+    ```
+
   
 * 初版
   * ~~P14 : 4.仮想マシンのネットワーク設定を変更します。~~ → 第2版に反映 
